@@ -1,8 +1,13 @@
 ---
-title: "R Notebook"
-output:
-  html_document:
-    df_print: paged
+layout: post
+title:  "Github Pages 에 올리는 첫 글"
+date:   2018-01-11 00:18:00
+---
+
+---
+layout: post
+title: "R Notebook with image link"
+date:   2018-01-11 01:38:00
 ---
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
