@@ -18,7 +18,7 @@ avatar: https://github.com/yerimlim/180101test/blob/branch2/IMG_1734.JPG
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: yerimlim113@gmail.com 
   facebook:
   flickr:
   github: yerimlim/yerimlim.github.io
@@ -26,8 +26,8 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: 
+  stackoverflow: "users/7336712/yerim"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
