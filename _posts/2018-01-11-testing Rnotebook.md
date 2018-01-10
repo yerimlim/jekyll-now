@@ -13,9 +13,13 @@ summary(cars)
 ```
 
 
+
 ```{r}
 plot(cars)
+
 ```
+
+![결과](./plot.png)
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
