@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "R Notebook with image link"
@@ -20,7 +18,7 @@ plot(cars)
 
 ```
 
-![결과](./plot.png)
+![결과](https://raw.githubusercontent.com/yerimlim/yerimlim.github.io/master/_posts/plot.png)
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
