@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[yerimlm113@gmail.com](mailto:yerimlim113@gmail.com)
+[yerimlim113@gmail.com](mailto:yerimlim113@gmail.com)
