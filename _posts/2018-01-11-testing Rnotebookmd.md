@@ -1,8 +1,4 @@
----
-layout: post
-title:  "Github Pages 에 올리는 첫 글"
-date:   2018-01-11 00:18:00
----
+
 
 ---
 layout: post
