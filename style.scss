@@ -22,7 +22,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/2.0 'Nanum Gothic Coding', 'Nanum Pen Script' ; 
+  font: 18px/1.8 'Nanum Gothic Coding', 'Nanum Pen Script' ; 
   color: $darkGray;
 }
 
@@ -38,12 +38,12 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 2.0;
+  line-height: 1.8;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 2.0;
+    line-height: 1.8;
   }
 }
 
