@@ -18,7 +18,7 @@ plot(cars)
 
 ```
 
-![결과](https://raw.githubusercontent.com/yerimlim/yerimlim.github.io/master/_posts/plot.png)
+![결과](https://raw.githubusercontent.com/yerimlim/yerimlim.github.io/master/images/IMG_1734.jpg)
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
