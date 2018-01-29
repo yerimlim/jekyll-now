@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "R Notebook with image link"
-date:   2018-01-11 01:38:00
+date:   2018-01-11 01:38:00
+comments: true
 ---
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
