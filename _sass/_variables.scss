@@ -6,6 +6,23 @@
 // Colors
 $blue: #4183C4;
 
+$base-color: $oc-gray-8;
+$base-lighten-color: $oc-gray-6;
+
+$background-color: $oc-white;
+$background-over-color: $oc-gray-1;
+
+$text-color: $oc-gray-8;
+$link-color: $oc-blue-8;
+$code-color: $oc-indigo-9;
+$code-background-color: $oc-gray-1;
+$table-border-color: $oc-gray-2;
+$table-background-color: $oc-gray-1;
+
+$divider-color: $oc-gray-1;
+
+
+
 // Grays
 $black: #000;
 $darkerGray: #222;
@@ -18,6 +35,16 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+
+$base-font: 'NanumSquare', 'Source Sans Pro', Apple SD Gothic Neo, Nanum Barun Gothic, Nanum Gothic, Verdana, Arial, Dotum, sans-serif;
+$code-font: Menlo, 'NanumSquare', Monaco, monospace;
+$code-gist-font: Menlo, Monaco, "Courier New", monospace;
+
+$base-font-size: 18px;
+$base-font-size-sm: 14px;
+
+$mobile-font-size: 16px;
+
 
 // Mobile breakpoints
 @mixin mobile {
