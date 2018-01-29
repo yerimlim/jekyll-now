@@ -4,7 +4,13 @@ title: Useful Links
 permalink: /Links/
 ---
 
-**Useful Links I use!**
 
 ## 블로그
-[my Github account](https://github.com/yerimlim) 
+[My Github account](https://github.com/yerimlim) 
+
+
+## Git Study sources
+[Happy Git with R](http://happygitwithr.com/big-picture.html) Jenny Bryan 교수 랩에서 만든 git 교안 <br/>
+[Udacity Course](https://classroom.udacity.com/courses/ud775) Git을 무료로 가르쳐준다.  <br/>
+
+
