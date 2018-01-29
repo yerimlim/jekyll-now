@@ -8,6 +8,7 @@
 @import "reset";
 @import "variables";
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothiccoding.css); 
+@import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -21,7 +22,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/2.0 $helvetica, 'Nanum Gothic Coding' ; 
+  font: 18px/2.5 $helvetica, 'Nanum Gothic Coding', 'Nanum Pen Script' ; 
   color: $darkGray;
 }
 
@@ -33,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Nanum Gothic Coding', monospace;
+  font-family: 'Nanum Gothic Coding', 'Nanum Pen Script', monospace;
   color: $darkerGray;
   font-weight: bold;
 
