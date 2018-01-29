@@ -69,6 +69,14 @@ kramdown:
     css_class: 'highlight'
 
 
+#Navigation
+nav:
+  -name:      "Posts"
+    url:       "/"
+  -name:      "Who I am"
+    url:       "/about"
+  - name:     "Useful Links"
+    url:      "/Links"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
