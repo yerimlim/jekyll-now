@@ -7,4 +7,4 @@ permalink: /Links/
 **Useful Links I use!**
 
 ## 블로그
-(Github)[https://github.com/yerimlim] 
+[my Github account](https://github.com/yerimlim) 
