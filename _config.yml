@@ -71,9 +71,9 @@ kramdown:
 
 #Navigation
 nav:
-  -name:      "Posts"
+  - name:      "Posts"
     url:       "/"
-  -name:      "Who I am"
+  - name:      "Who I am"
     url:       "/about"
   - name:     "Useful Links"
     url:      "/Links"
