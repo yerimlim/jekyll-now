@@ -13,4 +13,4 @@ tags : [취업준비]
 ### 정규표현식
 - Learning [Regular Expressions](https://regexone.com/lesson/matching_characters?). step-by-step 방식으로 매우 빨리 배울 수 있다. 
 - 정규표현식을 직접 실험해볼 수 있는 [링크](https://regexper.com/#%5C.%5E*)  
-![Imgur](https://i.imgur.com/clcQU3v.png){: width="100px"  height="100px"}
+![Imgur](https://i.imgur.com/clcQU3v.png){: width="50%"  height="50%"}
