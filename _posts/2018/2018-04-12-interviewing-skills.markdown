@@ -11,7 +11,7 @@ output:
 
 ***
 
-![면접현장은 떨린다](/images/면접현장은-떨린다.png)
+![면접현장은 떨린다](https://cdn.gobankingrates.com/wp-content/uploads/2016/09/13-nervous-job-interview-LightField-Studios-shutterstock_638430010-848x477.jpg)
 
 
 
@@ -176,7 +176,7 @@ output:
 
 ***
 <BR/>
-![좋은 답변의 구조를 살펴보자](/images/1분자기소개.png)
+![좋은 답변의 구조를 살펴보자](https://www.japantimes.co.jp/wp-content/uploads/2017/07/p7-bilingual-a-20170704-870x553.jpg)
 ## 면접 POINT2 : 답변하는 기본 form
 - 결론만 말하라. 면접관도 시간이 없다.
 
@@ -224,7 +224,7 @@ output:
 
 ***
 <br/>
-![예상질문을 잘 준비해가는 것만큼 좋은 대비는 없다](/images/예상질문을-잘-준비해가는-것만큼-좋은-대비는-없다.png)
+![예상질문을 잘 준비해가는 것만큼 좋은 대비는 없다](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOOOtSeTNsaFE7w4im2ntS-G66I-Rx2mNismOPfkqVE0O3IgAtw)
 
 ## 면접 POINT3 : 입사지원서 토대로 예상문제 추측해보기
 - 면접관의 질문 알고리즘 (Rainbow steps)
@@ -275,7 +275,7 @@ output:
 ***
 <br/>
 
-![빈출 예상질문, 이것만은 꼭 준비하자](https://cdn.pixabay.com/photo/2013/07/12/14/10/list-147904_960_720.png)
+![빈출 예상질문, 이것만은 꼭 준비하자](https://s-i.huffpost.com/gen/4009198/images/n-LIST-628x314.jpg)
 ## 면접 POINT6 : 빈출 예상질문
 - 본인이 하게 될 직무에 대해 간단하게 설명해줄래요?
 
