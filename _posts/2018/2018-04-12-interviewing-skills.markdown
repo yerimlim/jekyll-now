@@ -69,7 +69,8 @@ output:
 
 ***
 <br/>
-![좋은 1분 자기소개는 면접의 당락을 결정한다](http://img.etnews.com/photonews/0905/090521042234_180955153_b.jpg)
+
+![좋은 1분 자기소개는 면접의 당락을 결정한다](https://img.etnews.com/photonews/0905/090521042234_180955153_b.jpg)
 
 ## 면접 POINT1 : **1분 자기소개**
 - 1분 자기소개 : 키워드 위주로 외워라.
@@ -176,7 +177,8 @@ output:
 
 ***
 <BR/>
-![좋은 답변의 구조를 살펴보자](https://img.etimg.com/thumb/msid-59396101,width-300,imgsize-25094,resizemode-4/how-to-answer-unexpected-interview-questions.jpg)
+![좋은 답변의 구조를 살펴보자](https://www.michaelpage.co.uk/sites/michaelpage.co.uk/files/styles/large/public/10%20ways%20to%20take%20the%20sting%20out%20of%20second%20interviews%20-%20Blog%20image%20MP.jpg?itok=LvVEpLy4)
+
 ## 면접 POINT2 : 답변하는 기본 form
 - 결론만 말하라. 면접관도 시간이 없다.
 
@@ -224,6 +226,7 @@ output:
 
 ***
 <br/>
+
 ![예상질문을 잘 준비해가는 것만큼 좋은 대비는 없다](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOOOtSeTNsaFE7w4im2ntS-G66I-Rx2mNismOPfkqVE0O3IgAtw)
 
 ## 면접 POINT3 : 입사지원서 토대로 예상문제 추측해보기
@@ -248,6 +251,7 @@ output:
 <br/>
 
 ![질문에 당황하지 않고 잘 대응하는 역량을 기르자](http://ktalking.com/wp-content/uploads/2015/01/interview-3-e1442396264629.jpg)
+
 ## 면접 POINT4 : 추가 질문 대응법
 
 - 부족한 정보를 채우려고 할
@@ -258,6 +262,7 @@ output:
 ***
 
 ![면접관이 원하는 답을 하자](http://cfs10.tistory.com/image/22/tistory/2008/11/22/12/32/49277d3fea819)
+
 ## 면접 POINT5 : 면접관 관점의 필수. 총정리
 - 역량 면접에 대비하는 2가지 기준.
     1. 직무 준비도
@@ -279,6 +284,7 @@ output:
 <br/>
 
 ![빈출 예상질문, 이것만은 꼭 준비하자](https://s-i.huffpost.com/gen/4009198/images/n-LIST-628x314.jpg)
+
 ## 면접 POINT6 : 빈출 예상질문
 - 본인이 하게 될 직무에 대해 간단하게 설명해줄래요?
 
