@@ -176,7 +176,7 @@ output:
 
 ***
 <BR/>
-![좋은 답변의 구조를 살펴보자](https://www.japantimes.co.jp/wp-content/uploads/2017/07/p7-bilingual-a-20170704-870x553.jpg)
+![좋은 답변의 구조를 살펴보자](https://img.etimg.com/thumb/msid-59396101,width-300,imgsize-25094,resizemode-4/how-to-answer-unexpected-interview-questions.jpg)
 ## 면접 POINT2 : 답변하는 기본 form
 - 결론만 말하라. 면접관도 시간이 없다.
 
@@ -243,6 +243,9 @@ output:
 
 - 위 질문을 준비하면 좋다.
 - 1분 자기소개와 입사지원서 상의 질문을 동일해도된다.
+
+***
+<br/>
 
 ![질문에 당황하지 않고 잘 대응하는 역량을 기르자](http://ktalking.com/wp-content/uploads/2015/01/interview-3-e1442396264629.jpg)
 ## 면접 POINT4 : 추가 질문 대응법
