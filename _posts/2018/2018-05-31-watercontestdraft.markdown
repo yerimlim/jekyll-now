@@ -6,6 +6,12 @@ date: "2018-05-31 07:12"
 
 [모집요강](https://www.kwater.or.kr/news/sub02/bigdata/guidPage.do?s_mid=1792)
 
+## 들어가기 전에...
+- 수요예측모델링은 **파생변수**의 싸움이라고 합니다.
+- 누가 더 창의적인 파생변수를 만드느냐 가 관건이라고 합니다.
+- 좋은 파생 변수를 만들기 위해 노력해봅시다.
+
+
 ## 과제목표
 추진배경, 필요성, 목적 등  [논문전문링크](https://www.dropbox.com/s/usksz5ry5bflfoz/%EB%AC%BC%EC%88%98%EC%9A%94%20%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%9C%20%EC%A2%8B%EC%9D%80%20%EA%B8%80.pdf?dl=0)
 
