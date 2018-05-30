@@ -17,17 +17,20 @@ date: "2018-05-31 07:12"
 
 우리의 목표는 물수요를 예측하여 물을 효율적으로 공급하는 것이다. 특히 물 사용량을 산정하여, 제반 상수도 계획과 설계 등에 활용하면 좋을 것 같습니다.
 
-- 아래는 모집 요강에 적힌 설명입니다. 이 내용도 참고하시면 좋겠습니다.
-![Imgur](https://i.imgur.com/VrdnMUN.png)
+- **추진배경** 아래 내용 참고해서 배경 적어주세요.![Imgur](https://i.imgur.com/qcQwGI6.png)
 
-- 아래 내용도 참고해서 과제목표 작성해주세요.
+- **필요성** 아래 내용 참고해서 필요성을 적어주세요.![Imgur](https://i.imgur.com/dxrn2Ym.png)
+
+
+- **목적** 아래 내용 참고해서 과제목표 작성해주세요.
 ![Imgur](https://i.imgur.com/zfLkzHl.png)
 
-- 아래 내용도 참고해서 쓰면 될 듯합니다.
-![Imgur](https://i.imgur.com/dxrn2Ym.png)
 
 ## 주요내용
 과제내용 요약설명
+- 아래는 모집 요강에 적힌 설명입니다. 이 내용도 참고하시면 좋겠습니다.
+![Imgur](https://i.imgur.com/VrdnMUN.png)
+
 
 - 가설을 세우보자
 - 물의 수요는 OO와 관련이 있을 것이다.
