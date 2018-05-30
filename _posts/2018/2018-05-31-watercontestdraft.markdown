@@ -25,6 +25,7 @@ date: "2018-05-31 07:12"
 
 
 
+
 - [데이터 변수에 대한 자료](https://www.kwater.or.kr/gov3/sub03/annoView.do?seq=2308&s_mid=1664)
 - ![데이터 예시](https://i.imgur.com/tHioazZ.png)
 - 보통 물수요예측에 포함하는 변수는 아래와 같다 :
