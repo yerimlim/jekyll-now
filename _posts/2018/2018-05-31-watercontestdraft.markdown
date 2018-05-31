@@ -4,7 +4,9 @@ title: "watercontestdraft"
 date: "2018-05-31 07:12"
 ---
 
-[모집요강](https://www.kwater.or.kr/news/sub02/bigdata/guidPage.do?s_mid=1792)
+
+
+- [모집요강](https://www.kwater.or.kr/news/sub02/bigdata/guidPage.do?s_mid=1792) <- 여기 클릭해서 살펴보기
 
 ## 0. 들어가기 전에...
 - 수요예측모델링은 **파생변수**의 싸움이라고 합니다.
@@ -30,13 +32,16 @@ date: "2018-05-31 07:12"
 ![Imgur](https://i.imgur.com/zfLkzHl.png)
 
 
+- 분석의 의의
+![Imgur](https://i.imgur.com/gUxZ74d.png)
+
+
 ***
 
 ## 2. 주요내용
 과제내용 요약설명
 - 아래는 모집 요강에 적힌 설명입니다. 이 내용도 참고해서 적을 예정입니다.
 ![Imgur](https://i.imgur.com/VrdnMUN.png)
-
 
 
 - 가설을 세우보자
@@ -79,6 +84,8 @@ date: "2018-05-31 07:12"
       - 기상여건
       - 계절별 요인
       - 공휴일, 특정일 등
+  
+  ![Imgur](https://i.imgur.com/xfZ5Wp8.png)
 
 - 파생변수를 집어넣자. 아래는 기상청에서 파생변수를 만들어내는 예시이다.
 ![Imgur](https://i.imgur.com/47fe3St.png)
@@ -96,5 +103,5 @@ date: "2018-05-31 07:12"
 ## Appendix. 참고할만한 논문 및 링크..
 - 신경망 모형을 통해 예측했다고 함. 무슨 내용인지는 모르겠으나 나중을 위해 일단 모아둠. [링크](https://patents.google.com/patent/KR100540009B1/ko)
 - 물수요 예측에 대한 아이디어 얻기 좋음. 연구의 필요성, 기대효과에 대한 설명이 있음. 계획서 쓸 때 여기 참고할것.. [링크](https://patents.google.com/patent/KR101139161B1/ko)
-- 앙상블 방법을 통한 물수요예측 모델링. 추후 분석할때,  이 논문 보면서 따라하면 될 듯. 계획서 쓸 때도 여기 참고해도 좋을 듯 [링크])http://www.jksww.or.kr/journal/article.php?code=17482)
+- 앙상블 방법을 통한 물수요예측 모델링. 추후 분석할때,  이 논문 보면서 따라하면 될 듯. 계획서 쓸 때도 여기 참고해도 좋을 듯 [링크](http://www.jksww.or.kr/journal/article.php?code=17482)
 -
